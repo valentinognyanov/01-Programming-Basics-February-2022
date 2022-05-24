@@ -1,1 +1,1 @@
-# SoftUni-Programming-Basic
+# Programming Basic - SoftUni
